@@ -23,17 +23,17 @@ To solve this, I decided to create a simple solution that would remain clearly v
 
 ## 🧩 Screenshots
 
-*(Add screenshots of the app in action here)*
+![MacOs desktop view, showing the two red mute indicators](screenshot.png "Screenshot")
 
 ---
 
 ## 🚀 Installation
 
 ### Option 1 — Download the release
-1. Go to the **[Releases](./releases)** page.  
-2. Download the latest `.dmg` or `.zip` build.  
+1. Go to the **[Releases](https://github.com/Resousse/MacMuteNotifier/releases)** page.  
+2. Download the latest `.dmg`   
 3. Drag **Mute Notifier** into your **Applications** folder.  
-4. Launch the app and grant the required permissions.
+4. Launch the app
 
 ### Option 2 — Build from source
 1. Clone the repository:
