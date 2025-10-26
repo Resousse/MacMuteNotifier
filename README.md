@@ -4,12 +4,10 @@
 
 ---
 
-I'm using a Logitech mouse that lets me mute the microphone through a custom action button configured in the Logitech software.  
-However, when I mute the mic, a small red square appears — but only on one screen. As a result, I sometimes kept talking while still muted without noticing it.
+📝 I'm using a **Logitech mouse** that lets me mute the microphone, at system level, through a **custom action button** configured in the Logitech application.  
+However, when I mute the mic, **a small red square appears** (with the Logi app) — but **only on one screen**. As a result, I sometimes kept talking while **still muted without noticing it**. 🤦‍♂️
 
-To solve this, I decided to create a simple solution that would remain clearly visible no matter which screen I'm looking at.
-
----
+To solve this, I decided to create a **simple application** that would **remain clearly visible** no matter **which screen** I'm looking at.
 
 ## ✨ Features
 
@@ -19,13 +17,9 @@ To solve this, I decided to create a simple solution that would remain clearly v
 - ⚙️ Runs quietly without any visible icon in status bar nor dock, totally in background
 - 💡 Lightweight, **no external dependencies**
 
----
-
 ## 🧩 Screenshots
 
 ![MacOs desktop view, showing the two red mute indicators](screenshot.png "Screenshot")
-
----
 
 ## 🚀 Installation
 
@@ -47,8 +41,6 @@ To solve this, I decided to create a simple solution that would remain clearly v
    ```
 3. Build & Run (⌘ + R)
 
----
-
 ## ⚙️ Configuration
 
 Nothing is launched in startup by default, if you want to do it, just do :
@@ -56,8 +48,6 @@ Nothing is launched in startup by default, if you want to do it, just do :
 - Go in "Login Items & Extensions"
 - Click on + sign on the "Add a login item" section
 - Look for "Mute Notifier" in your Applications folder
-
----
 
 ## 📄 License
 
